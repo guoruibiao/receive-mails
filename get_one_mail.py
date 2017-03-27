@@ -6,8 +6,8 @@ import base64
 
 def get_parsed_msg():
     # 邮箱个人信息
-    useraccount = 'spidersmall@163.com'
-    password = 'guoruibiao285514'
+    useraccount = '您的邮箱账号@163.com'
+    password = '密码不告诉你'
     # 邮件服务器地址
     pop3_server = 'pop.163.com'
     # 开始连接到服务器
