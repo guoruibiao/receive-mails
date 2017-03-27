@@ -3,8 +3,8 @@
 import poplib
 
 # 邮箱个人信息
-useraccount = 'spidersmall@163.com'
-password = 'guoruibiao285514'
+useraccount = '您的邮箱@163.com'
+password = '不告诉你们'
 # 邮件服务器地址
 pop3_server = 'pop.163.com'
 
