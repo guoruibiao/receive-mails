@@ -217,7 +217,7 @@ if __name__ == '__main__':
 
 
 
-# mails = get_parsed_msg('spidersmall@163.com', 'guoruibiao285514', 3, 1)
+# mails = get_parsed_msg('spidersmall@163.com', 'yourpassword', 3, 1)
 # data = mails[1].data
 # maildetails = get_mail_details(data)
 # print(maildetails.receivedtime)
